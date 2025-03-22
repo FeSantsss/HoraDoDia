@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(108, 213, 248);
+}
+header{
+    color: white;
+    font-size: 35px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    font-style:italic;
+}
+section{
+    background-color: whitesmoke;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.437);
+    width: 50%;
+    text-align: center;
+}
+footer{
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    color:aliceblue;
+}
+#foto{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 15px;
+}
